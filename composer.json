@@ -1,0 +1,10 @@
+{
+    "name": "lpnice/cat",
+    "description": "Nice Cat",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Lpnice": "src"
+        }
+    }
+}
