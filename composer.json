@@ -3,6 +3,7 @@
     "description": "Nice Cat",
     "license": "MIT",
     "version": "1.0.0",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "olivier",
