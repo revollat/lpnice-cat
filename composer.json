@@ -1,6 +1,13 @@
 {
     "name": "lpnice/cat",
     "description": "Nice Cat",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "olivier",
+            "email": "oliv@example.net"
+        }
+    ],
     "require": {},
     "autoload": {
         "psr-0": {
